@@ -1,7 +1,7 @@
 <?php
 
 // From URL to get webpage contents.
-$url = "https://testecomms.herokuapp.com/";
+$url = "https://testecomms.herokuapp.com/create.php";
 
 // Initialize a CURL session.
 $ch = curl_init();
